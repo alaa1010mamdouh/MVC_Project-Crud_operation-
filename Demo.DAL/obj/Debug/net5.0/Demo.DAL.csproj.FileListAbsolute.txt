@@ -1,0 +1,75 @@
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+D:\.Net C40\Projects\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+C:\D\RouteWork\Cycle 41\My Workshops\10 MVC Enhancement\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+C:\Users\Khale\Downloads\Demo MVC G03 Solution\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+E:\ROUTEE (C#)\workshoop\08-MVC Enhancement\Code\Demo MVC G03 Solution01\Demo MVC G03 Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\MVC Project\MVC\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\MVC Project\MVC\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+E:\MVC Project\MVC\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+E:\MVC Project\MVC\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\MVC Project\MVC\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\MVC Project\MVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\MVC Project\MVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVC Project\MVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\MVC Project\MVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\MVC Project\MVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\MVC Project\MVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\MVC Project\MVC\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\MVC Project\MVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\MVC Project\MVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+E:\MVC Project\MVC\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
