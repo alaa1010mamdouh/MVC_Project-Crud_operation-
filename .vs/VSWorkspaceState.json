@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVC",
+    "\\MVC\\Demo.DAL",
+    "\\MVC\\Demo.DAL\\Models",
+    "\\MVC\\Demo.PL",
+    "\\MVC\\Demo.PL\\Controllers",
+    "\\MVC\\Demo.PL\\Helper",
+    "\\MVC\\Demo.PL\\Views",
+    "\\MVC\\Demo.PL\\Views\\Shared"
+  ],
+  "SelectedNode": "\\MVC\\Demo.PL\\Views\\Shared\\_AuthLayout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
